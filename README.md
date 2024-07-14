@@ -30,7 +30,7 @@ AssetManagement is a comprehensive solution designed to streamline the managemen
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/phamthanhhungpro/AssetManagement.git
+   git clone https://github.com/hieumt24/Online-Asset-Management.git
    cd AssetManagement
 
    ```
